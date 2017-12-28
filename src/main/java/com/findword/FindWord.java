@@ -25,7 +25,7 @@ import org.json.JSONObject;
  */
 public class FindWord {
 
-    private static final String URL = "https://randomwordgenerator.com/json/words.json";
+    private static final String URL = "";
     private static String WORD = "";
     private static final Scanner scanner = new Scanner(System.in);
     private static StringBuilder dashed = null;
